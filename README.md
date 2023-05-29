@@ -1,5 +1,16 @@
 ### Hi there 👋
 #### ✨I'm a datascientist using manufacturing data in automobile smart factory  <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat-square&logo=Hyundai&logoColor=white"/> <img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"/>
+#### · Electronoc Engineering ('08~'13)
+#### · Fabricating MEMS & Semi-conductor ('14~'15)
+#### · Infrared scene device ('14~'15)
+#### · Electro-electrical battery ('16~'17)
+#### · Vision detection ('17~'18)
+#### · Noise & Vibration signal processing ('19~'23)
+#### · Predictive maintenance ('20~'23)
+#### · Prognostics and Health Management ('20~'23)
+#### · Data science & AI (ML/DL) ('20~'23)
+#### · Edge computing & Embedded AI ('22~'23)
+#### · Platform & MLops ('22~'23)
 
 <!--
 **LoidPark/LoidPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
