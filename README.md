@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"> <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 
 ---
-### Certificates📖
+### Certificates 📖
 + 소음진동기사('19)
 + ADsP('20)
 + 빅데이터분석기사('21)
 + Tensorflow Development Certificate('23)✍️
 + ADP('24)✍️
 ---
-### Likes❤️
+### Likes ❤️
 + Animation : SPYxFAMILY
 + Exercise : Football, Golf
 + Wife (no kids yet)
