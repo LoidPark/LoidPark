@@ -3,7 +3,7 @@
 ---
 ### Brief history
 ##### · Electronic Engineering (B.S.) ('08~'13)
-##### · Fabricating MEMS & Semi-conductor / Development of Infrared scene device (M.S.) ('14~'15)
+##### · Fabricating MEMS & Semi-conductor device / Development of Infrared scene device (M.S.) ('14~'15)
 ##### · Electrical battery diagnosis & Vision crack detection ('16~'18)
 ##### · Noise & Vibration signal processing / Data science & AI (ML/DL) ('19~'23)
 ##### · Predictive maintenance / Prognostics and Health Management ('20~'23)
