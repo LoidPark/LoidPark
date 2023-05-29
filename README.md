@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ✨I'm a datascientist using manufacturing data in automobile smart factory  <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat-square&logo=Hyundai&logoColor=white"/> <img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"/>
+#### ✨I'm a datascientist using manufacturing data in automobile smart factory  <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat-square&logo=Hyundai&logoColor=white"/> <img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"/>
 
 <!--
 **LoidPark/LoidPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
