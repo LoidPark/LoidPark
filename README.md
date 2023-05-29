@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 #### I'm living in the sky, so we are a sky-family!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoidPark&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoidPark)](https://github.com/anuraghazra/github-readme-stats)
 
