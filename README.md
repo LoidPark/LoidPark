@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=Scikitlearn&logoColor=white"/>
 
 #### Tools
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VScode&logoColor=white"/>
