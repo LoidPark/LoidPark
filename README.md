@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 ##### · Wife (no kids yet)
 ##### · 음주(X) 가무(O)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoidPark&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoidPark&show_icons=true&theme=vue)
