@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a datascientist using munufacturing data in automobile smart factory
+#### I'm a datascientist using manufacturing data in automobile smart factory
 
 <!--
 **LoidPark/LoidPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
