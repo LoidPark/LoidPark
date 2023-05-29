@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### ✨I'm a datascientist using manufacturing data in automobile smart factory  <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat-square&logo=Hyundai&logoColor=white"/> <img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"/>
+#### ✨ I'm a datascientist using manufacturing data in automobile smart factory  <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat-square&logo=Hyundai&logoColor=white"/> <img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"/>
 ---
 ### Brief history
 > Electronic Engineering (B.S.) ('08~'13)   
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 + Wife (no kids yet)
 + 음주(X) 가무(O)
 
-#### ✨I'm living in the sky, so we are a sky-family!
+#### ✨ I'm living in the sky, so we are a sky-family!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoidPark&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoidPark)](https://github.com/anuraghazra/github-readme-stats)
