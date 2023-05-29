@@ -1,12 +1,12 @@
 ### Hi there 👋
 #### ✨I'm a datascientist using manufacturing data in automobile smart factory  <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat-square&logo=Hyundai&logoColor=white"/> <img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"/>
-##### · Electronic Engineering ('08~'13)
-##### · Fabricating MEMS & Semi-conductor / Development of Infrared scene device ('14~'15)
-##### · Electrical battery diagnosis ('16~'17)
-##### · Vision detection ('17~'18)
-##### · Noise & Vibration signal processing / Data science & AI (ML/DL) ('19~'23)
-##### · Predictive maintenance / Prognostics and Health Management ('20~'23)
-##### · Edge computing & Embedded AI / Platform & MLops ('22~'23)
+#####      · Electronic Engineering ('08~'13)
+#####      · Fabricating MEMS & Semi-conductor / Development of Infrared scene device ('14~'15)
+#####      · Electrical battery diagnosis ('16~'17)
+#####      · Vision detection ('17~'18)
+#####      · Noise & Vibration signal processing / Data science & AI (ML/DL) ('19~'23)
+#####      · Predictive maintenance / Prognostics and Health Management ('20~'23)
+#####      · Edge computing & Embedded AI / Platform & MLops ('22~'23)
 
 <!--
 **LoidPark/LoidPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills 💪
+### 💪 Skills
 #### · Languages & Libraries
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>👍
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>✍️
