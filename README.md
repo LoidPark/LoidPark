@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### ✨I'm a datascientist using manufacturing data in automobile smart factory  <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat-square&logo=Hyundai&logoColor=white"/> <img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"/>
+---
 ### Brief history
 ---
 ##### · Electronic Engineering ('08~'13)
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 -->
 
 ### 💪 Skills
+---
 #### · Languages & Libraries
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>👍
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>✍️
