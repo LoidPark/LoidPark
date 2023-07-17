@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ---
 ### Likes ❤️
 + Animation : SPYxFAMILY
-+ Exercise : Football, Golf
++ Exercise : Football
 + Wife (no kids yet)
 + 음주(X) 가무(O)
 
