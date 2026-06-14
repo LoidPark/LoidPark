@@ -32,23 +32,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 + Studying✍️   
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"> <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-
----
-### Certificates 📖
-+ 소음진동기사('19)
-+ ADsP('20)
-+ 빅데이터분석기사('21)
-+ Tensorflow Development Certificate('23)✍️
-+ ADP('24)✍️
----
-### Likes ❤️
-+ Animation : SPYxFAMILY
-+ Exercise : Football
-+ Wife (no kids yet)
-+ 음주(X) 가무(O)
-
-#### ✨ I'm living in the sky, so we are a sky-family!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoidPark&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoidPark)](https://github.com/anuraghazra/github-readme-stats)
-
